@@ -1,0 +1,77 @@
+.user-details-container {
+    width: 100%;
+    
+}
+
+
+
+.user-details-container .nav {
+    width: 240px !important;
+    height: 832px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.user-details-container .content {
+    width: 100%;
+}
+.user-details-container .nav .menu-text {
+    font: normal normal normal 12px/22px Roboto;
+letter-spacing: 0px;
+color: #707070;
+text-transform: uppercase;
+margin: 15px 20px;
+}
+.user-details-container .nav-link.active {
+    background: #EFF7FF 0% 0% no-repeat padding-box !important;
+    border-left: 3px solid #0070E0 !important;
+    font: normal normal normal 14px/22px Roboto;
+letter-spacing: 0px;
+color: #0070E0;
+padding: 15px 20px;
+border-radius: 0;
+}
+
+.user-details-container .nav-link {
+    font: normal normal normal 14px/22px Roboto;
+letter-spacing: 0px;
+color: #000000;
+padding: 15px 20px;
+border-radius: 0;
+text-align: start;
+}
+
+.user-details-container .nav-link  svg {
+    margin-right: 15px;
+   
+}
+
+
+.nav-link.active  path#Trazado_63455 {
+    fill: #0070E0;
+}
+
+.nav-link.active path#Trazado_63456 {
+    fill: #0070E0;
+}
+
+.nav-link.active path#Trazado_63465 {
+    fill: #0070E0;
+}
+
+.nav-link.active path#Trazado_63466 {
+    fill: #0070E0;
+}
+
+
+.user-details-container .publication-create-btn{
+    background: #1D8EFF 0% 0% no-repeat padding-box;
+border-radius: 21px;
+font: normal normal 500 14px/22px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+border: 0;
+padding: 10px 20px;
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}

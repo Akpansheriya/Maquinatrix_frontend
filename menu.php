@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include './header.php' ?>
 
 <div class="navbar navbar-light bg-maquinatrix navbar-expand-md">
     <div class="container">
@@ -24,7 +24,7 @@
 </div>
         <div class="dropdown">
         <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-<i class="fa-solid fa-bars"></i> <img class="profile-img" src="./img/profile.png" alt="profile" />
+<i class="fa-solid fa-bars"></i> <img class="profile-img" src="./assets/img/profile.png" alt="profile" />
   </button>
   <ul class="dropdown-menu">
     <div class="profile-info">

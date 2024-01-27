@@ -15,11 +15,11 @@
 
 
                     <div class="custom-option" onclick="selectOption(this,'Arriendo')">
-                        <img src="./img/Arriendo.png" alt="Arriendo">
+                        <img src="./assets/img/Arriendo.png" alt="Arriendo">
                         <p>Arriendo</p>
                     </div>
                     <div class="custom-option" onclick="selectOption(this,'Venta')">
-                        <img src="./img/Venta.png" alt="Venta">
+                        <img src="./assets/img/Venta.png" alt="Venta">
                         <p>Venta</p>
                     </div>
 

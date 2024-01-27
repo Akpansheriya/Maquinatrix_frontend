@@ -1,5 +1,5 @@
-<?php include 'header.php' ?>
-<?php include 'menu.php' ?>
+<?php include './header.php' ?>
+
 
 <div class="login">
 <div class="one-color"></div>
@@ -39,7 +39,7 @@
         <a class="linkedin" href="./index.php"><i class="fa-brands fa-facebook"></i> Con Facebook </a>
     </div>
     <div class="google-btn"> 
-    <a href="./index.php" class="google"> <img src="./img/google.png" alt="google" /> Con Google</a>
+    <a href="./index.php" class="google"> <img src="./assets/img/google.png" alt="google" /> Con Google</a>
     </div>
 </div>
 </div>

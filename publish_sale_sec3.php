@@ -5,7 +5,7 @@
           <h1>Resumen publicación</h1>
           <p class="text-grey">Paso 3 de 3</p>
           <div class="excavator-box-wrapper">
-            <img src="./img/detalle-pro.png" alt="producto">
+            <img src="./assets/img/detalle-pro.png" alt="producto">
             <div class="excavator-right-box" >
               <p class="sm-title" style="margin-top:0px !important;">Construcción Excavadora de las mejores del mundo-box</p>
               <p class="text-lg-bold">CLP 10.000</p>

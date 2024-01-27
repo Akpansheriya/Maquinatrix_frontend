@@ -221,6 +221,7 @@ color: #000000;
   color: #000000;
   border-radius: 21px;
   padding: 11px 23px;
+  text-decoration: none;
 }
 .box div a:hover {
   background-color: #ffb41e;

@@ -1,5 +1,6 @@
-<?php include 'header.php' ?>
-<?php include 'menu.php' ?>
+ <?php include 'header.php' ?> 
+ <?php include 'menu.php' ?>
+
 <!-- <?php
 $baseUrl = getenv('URL_API');
 $count_category = 0;
@@ -136,7 +137,7 @@ if ($response1 !== false) {
             </div>
             <div class="second-box">
 
-                <img src="./img/garuntee.png" alt="garuntee">
+                <img src="./assets/img/garuntee.png" alt="garuntee">
 
                 <div class="text-wrapper">
                     <p class="main-heading">Garantía Maquinatrix</p>
@@ -145,7 +146,7 @@ if ($response1 !== false) {
 
             </div>
             <div class="second-box">
-                <img src="./img/pay.png" alt="garuntee">
+                <img src="./assets/img/pay.png" alt="garuntee">
                 <div class="text-wrapper">
                     <p class="main-heading">Paga Ahora o Después</p>
                     <p class="sub-heading">Flexibilidad en los pagos</p>
@@ -153,7 +154,7 @@ if ($response1 !== false) {
 
             </div>
             <div class="second-box">
-                <img src="./img/finance.png" alt="garuntee">
+                <img src="./assets/img/finance.png" alt="garuntee">
                 <div class="text-wrapper">
                     <p class="main-heading">Financiamiento</p>
                     <p class="sub-heading">Opciones más accesibles</p>
@@ -270,7 +271,7 @@ if ($response1 !== false) {
         </div>
         <div class="interest-card-container">
             <div class="card" style="width: 18rem;">
-                <img src="./img/producto.png" class="card-img-top" alt="producto">
+                <img src="./assets/img/producto.png" class="card-img-top" alt="producto">
                 <div class="card-body">
                     <div class="status-wrapper">
                         <div class="dot"></div>
@@ -281,7 +282,7 @@ if ($response1 !== false) {
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
-                <img src="./img/producto.png" class="card-img-top" alt="producto">
+                <img src="./assets/img/producto.png" class="card-img-top" alt="producto">
                 <div class="card-body">
                     <div class="status-wrapper">
                         <div class="dot"></div>
@@ -292,7 +293,7 @@ if ($response1 !== false) {
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
-                <img src="./img/producto.png" class="card-img-top" alt="producto">
+                <img src="./assets/img/producto.png" class="card-img-top" alt="producto">
                 <div class="card-body">
                     <div class="status-wrapper">
                         <div class="dot"></div>
@@ -303,7 +304,7 @@ if ($response1 !== false) {
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
-                <img src="./img/producto.png" class="card-img-top" alt="producto">
+                <img src="./assets/img/producto.png" class="card-img-top" alt="producto">
                 <div class="card-body">
                     <div class="status-wrapper">
                         <div class="dot"></div>
@@ -314,7 +315,7 @@ if ($response1 !== false) {
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
-                <img src="./img/producto.png" class="card-img-top" alt="producto">
+                <img src="./assets/img/producto.png" class="card-img-top" alt="producto">
                 <div class="card-body">
                     <div class="status-wrapper">
                         <div class="dot"></div>
@@ -337,7 +338,7 @@ if ($response1 !== false) {
         </div>
         <div class="row row-class">
             <div class="col-sm-6 col-md-6 col-lg-6 left-box">
-                <img src="./img/feliz.png" alt="feliz" />
+                <img src="./assets/img/feliz.png" alt="feliz" />
             </div>
             <div class="col-sm-6 col-md-6 col-lg-6 right-box">
                 <p class="first-title">CONOCE SOBRE </p>

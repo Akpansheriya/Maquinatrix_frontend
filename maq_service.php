@@ -11,7 +11,7 @@
             <div class="modal-body">
                 <div class="modal-box-wrapper" style="border-bottom: 1px solid #E4E5E7;
 opacity: 1;">
-                    <img src="./img/garuntee.png" alt="garuntee">
+                    <img src="./assets/img/garuntee.png" alt="garuntee">
                     <div>
                         <p class="box-main-heading">Garantía Maquinatrix</p>
                         <p class="box-sub-heading">Ahorra dinero que usarías en reparaciones imprevistas que podrían
@@ -24,7 +24,7 @@ opacity: 1;">
                 </div>
                 <div class="modal-box-wrapper" style="border-bottom: 1px solid #E4E5E7;
 opacity: 1;">
-                    <img src="./img/pay.png" alt="pay">
+                    <img src="./assets/img/pay.png" alt="pay">
                     <div>
                         <p class="box-main-heading">Paga Ahora o Después</p>
                         <p class="box-sub-heading">Asegura liquidez y seguridad en tus negocios. Pide desde el 20% hasta
@@ -36,7 +36,7 @@ opacity: 1;">
                     </div>
                 </div>
                 <div class="modal-box-wrapper">
-                    <img src="./img/finance.png" alt="finance">
+                    <img src="./assets/img/finance.png" alt="finance">
                     <div>
                         <p class="box-main-heading">Financiamiento Maquinatrix</p>
                         <p class="box-sub-heading">Consigue el financiamiento de una factura de alquiler, o bien, el

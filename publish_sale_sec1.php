@@ -5,35 +5,35 @@
               <li class="nav-item" role="presentation">
                 <button class="nav-link " id="pills-publish1-tab" data-bs-toggle="pill" data-bs-target="#pills-publish1"
                   type="button" role="tab" aria-controls="pills-publish1" aria-selected="true"><img
-                    src="./img/excavator.png" alt="excavator" />
+                    src="./assets/img/excavator.png" alt="excavator" />
                   <p>Maquinaria y<br /> vehículos</p>
                 </button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-publish2-tab" data-bs-toggle="pill" data-bs-target="#pills-publish2"
                   type="button" role="tab" aria-controls="pills-publish2" aria-selected="false"><img
-                    src="./img/hand-drill.png" alt="hand-drill" />
+                    src="./assets/img/hand-drill.png" alt="hand-drill" />
                   <p>Equipos y<br /> herramientas </p>
                 </button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-publish3-tab" data-bs-toggle="pill" data-bs-target="#pills-publish3"
                   type="button" role="tab" aria-controls="pills-publish3" aria-selected="false"><img
-                    src="./img/helmet.png" alt="helmet" />
+                    src="./assets/img/helmet.png" alt="helmet" />
                   <p>Productos y<br /> accesorios </p>
                 </button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-publish4-tab" data-bs-toggle="pill" data-bs-target="#pills-publish4"
                   type="button" role="tab" aria-controls="pills-publish4" aria-selected="false"><img
-                    src="./img/timing-belt.png" alt="timing-belt" />
+                    src="./assets/img/timing-belt.png" alt="timing-belt" />
                   <p>Repuestos</p>
                 </button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-publish5-tab" data-bs-toggle="pill" data-bs-target="#pills-publish5"
                   type="button" role="tab" aria-controls="#pills-publish5" aria-selected="false"
-                  style="margin-right:0px !important;"><img src="./img/tire.png" alt="tire" />
+                  style="margin-right:0px !important;"><img src="./assets/img/tire.png" alt="tire" />
                   <p>Neumáticos</p>
                 </button>
               </li>

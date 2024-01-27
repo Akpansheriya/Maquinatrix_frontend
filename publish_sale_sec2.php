@@ -10,7 +10,7 @@
       <div class="upload-input-container">
         <input type="file" id="file-input" class="upload-input" accept="image/*" multiple>
         <label for="file-input" class="label-text">
-          <img src="./img/camera.png" alt="Camera Icon">
+          <img src="./assets/img/camera.png" alt="Camera Icon">
           Select Images
         </label>
       </div>
@@ -20,7 +20,7 @@
           </div>
           <div class="col-sm-12 col-md-4 col-lg-4">
               <div class="ideation">
-                <img src="./img/idea.png" alt="idea">
+                <img src="./assets/img/idea.png" alt="idea">
                 <p class="ideation-text">
                 Para que tu publicación tengas más visitas, te recomendamos cargar fotos nítidas y bien iluminadas. Evita incluir bordes, logos, marcas de agua o textos promocionales.
                 </p>
